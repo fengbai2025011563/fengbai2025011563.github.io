@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>My New Hugo Project</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:50784/</link>
     <description>Recent content on My New Hugo Project</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 30 Jun 2026 15:32:44 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:50784/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ThreeTest</title>
-      <link>http://localhost:1313/posts/threetest/</link>
+      <link>http://localhost:50784/posts/threetest/</link>
       <pubDate>Tue, 30 Jun 2026 15:32:44 +0800</pubDate>
-      <guid>http://localhost:1313/posts/threetest/</guid>
-      <description>&lt;p&gt;#第三次测试&lt;/p&gt;
+      <guid>http://localhost:50784/posts/threetest/</guid>
+      <description>&lt;h1 id=&#34;第三次测试&#34;&gt;第三次测试&lt;/h1&gt;
 &lt;p&gt;想写点儿什么东西&amp;hellip;&lt;/p&gt;
 &lt;p&gt;熟悉写Blog中~&lt;/p&gt;
 &lt;p&gt;放张图片呢？&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;泥嚎~&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/cute.jpg&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img alt=&#34;泥嚎~&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:50784/img/cute.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>SecondBlog</title>
-      <link>http://localhost:1313/posts/secondblog/</link>
+      <link>http://localhost:50784/posts/secondblog/</link>
       <pubDate>Tue, 30 Jun 2026 14:30:11 +0800</pubDate>
-      <guid>http://localhost:1313/posts/secondblog/</guid>
-      <description>&lt;p&gt;#第二篇博客~&lt;/p&gt;</description>
+      <guid>http://localhost:50784/posts/secondblog/</guid>
+      <description>&lt;p&gt;# 第二篇博客~&lt;/p&gt;</description>
     </item>
     <item>
       <title>MyFirstBlog</title>
-      <link>http://localhost:1313/posts/myfirstblog/</link>
+      <link>http://localhost:50784/posts/myfirstblog/</link>
       <pubDate>Tue, 30 Jun 2026 14:10:25 +0800</pubDate>
-      <guid>http://localhost:1313/posts/myfirstblog/</guid>
+      <guid>http://localhost:50784/posts/myfirstblog/</guid>
       <description>&lt;h1 id=&#34;这是我的第一篇博客&#34;&gt;这是我的第一篇博客&lt;/h1&gt;
-&lt;p&gt;&lt;img alt=&#34;你好呀&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/soCute.jpg&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img alt=&#34;你好呀&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:50784/img/soCute.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
