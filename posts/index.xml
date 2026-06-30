@@ -31,7 +31,8 @@
       <link>http://localhost:1313/posts/myfirstblog/</link>
       <pubDate>Tue, 30 Jun 2026 14:10:25 +0800</pubDate>
       <guid>http://localhost:1313/posts/myfirstblog/</guid>
-      <description>&lt;p&gt;#这是我的第一篇博客&lt;/p&gt;</description>
+      <description>&lt;p&gt;#这是我的第一篇博客&lt;/p&gt;
+&lt;p&gt;![你好~](/img/soCute.jpg)&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
