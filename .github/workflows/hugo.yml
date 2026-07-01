@@ -28,7 +28,7 @@ jobs:
           hugo-version: 'latest'
           extended: true
       - name: Build
-        run: hugo --minify
+        run: run: hugo --minify --destination _site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
