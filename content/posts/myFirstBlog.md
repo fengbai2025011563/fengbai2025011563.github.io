@@ -6,7 +6,11 @@ title = 'MyFirstBlog'
 
 # 这是我的第一篇博客
 
+👍
 
+**你好~**
+
+*这是噜噜*
 
 ![你好呀](/img/soCute.jpg)
 
