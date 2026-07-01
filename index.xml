@@ -6,8 +6,15 @@
     <description>Recent content on My New Hugo Project</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jun 2026 15:32:44 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 09:00:00 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VscodeBlogTest</title>
+      <link>http://localhost:1313/posts/vscodeblogtest/</link>
+      <pubDate>Wed, 01 Jul 2026 09:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/vscodeblogtest/</guid>
+      <description>&lt;p&gt;这是Vscode上传Blog的第一次测试&lt;/p&gt;</description>
+    </item>
     <item>
       <title>ThreeTest</title>
       <link>http://localhost:1313/posts/threetest/</link>
